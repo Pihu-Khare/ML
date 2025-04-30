@@ -1,4 +1,4 @@
-# **InsightML**  
+# **Visualising data with ML**  
 An intuitive web application built with Streamlit for training, analyzing, and deploying machine learning models, offering an interactive interface for seamless data exploration and model management.
 
 ## 🌟 **Key Features**
