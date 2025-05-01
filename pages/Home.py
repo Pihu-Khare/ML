@@ -4,7 +4,7 @@ def show():
     # Hero Section
     col1, col2 = st.columns([2, 1])
     with col1:
-        st.title("🚀 InsightML")
+        st.title("🚀 Visualising_using_ML")
         st.markdown("""
         <h3 style='color: #4a6bff;'>Your Complete Machine Learning Workflow Solution</h3>
         """, unsafe_allow_html=True)
