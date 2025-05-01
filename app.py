@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu  # Requires pip install streamlit-
 
 # Set page config with new theme
 st.set_page_config(
-    page_title="InsightML",
+    page_title="Visualising_using_ML",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
