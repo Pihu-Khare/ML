@@ -62,7 +62,7 @@ st.markdown("""
 
 # Modern sidebar navigation
 with st.sidebar:
-    st.markdown("<h1 style='text-align: center; color: white;'>InsightML</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: white;'>Visualising_using_ML</h1>", unsafe_allow_html=True)
     st.markdown("---")
     
     # Using option_menu for modern navigation
